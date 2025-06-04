@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Shubham Vaghani!
 
-<!--
-**shubhamvaghani8793/shubhamvaghani8793** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Frontend Developer
 
-Here are some ideas to get you started:
+🌐 [Visit my Portfolio](https://shubhamvaghani.netlify.app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- React.js, Next.js, React Native, Redux, APIs
+- HTML, Tailwind, Shadcn UI, CSS, JavaScript, TypeScript
+- Git & GitHub
+
+## 💼 Featured Projects
+🔹 [Grid Cards](https://github.com/shubhamvaghani8793/Grid-cards)  
+A responsive layout using CSS Grid
+
+🔹 [Score Card](https://github.com/shubhamvaghani8793/Score-Card)  
+A dynamic UI project using HTML & CSS
+
+## 📊 GitHub Stats
+![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamvaghani8793&show_icons=true&theme=github_dark)
+
+---
+
+✨ I'm passionate about building user-friendly web applications and learning new technologies.
