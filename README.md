@@ -45,7 +45,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubhamvaghani8793&theme=darkhub&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shubhamvaghani8793&theme=darkhub&no-frame=true&row=1&cache_seconds=86400" />
 </p>
 
 ---
