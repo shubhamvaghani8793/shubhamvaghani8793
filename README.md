@@ -71,4 +71,4 @@
 
 ---
 
-<p align="center">💬 Let's connect! Feel free to check out my work and suggest improvements. I'm always open to collaboration!</p>
+<p align="center">💬 Let's connect! Feel free to check out my work and suggest improvements. I'm  always open to collaboration!</p>
