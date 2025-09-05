@@ -56,8 +56,8 @@
   A responsive layout using CSS Grid.
 
 - 🔹 [**Score Card**](https://github.com/shubhamvaghani8793/Score-Card)  
-  A dynamic UI project made with pure HTML & CSS.
-
+  A dynamic UI project made with pure HTML & CSS
+  
 - 🔹 [**Recipe Page**](https://github.com/shubhamvaghani8793/Recipepage)  
   Simple and clean responsive recipe web page.
 
