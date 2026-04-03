@@ -59,7 +59,7 @@
   A dynamic UI project made with pure HTML & CSS
   
 - 🔹 [**Recipe Page**](https://github.com/shubhamvaghani8793/Recipepage)  
-  Simple and clean responsive recipe web page
+  Simple and clean responsive recipe web page.
 
 ---
 
